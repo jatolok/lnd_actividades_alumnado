@@ -1,13 +1,13 @@
-.div {
+div img{
     border: 15px solid #06ffc5;
     
 }
 
-.table {
+table img {
     border: 15px solid #cb2121;
     border-left: 75px;
 }
 
-.parrafo {
+p img{
     border: 15px solid #14659b;
 }
